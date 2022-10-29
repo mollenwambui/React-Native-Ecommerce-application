@@ -259,7 +259,7 @@ const Home = ({navigation}) => {
                   opacity: 0.5,
                   marginLeft: 10,
                 }}>
-                41
+                56
               </Text>
             </View>
             <Text
@@ -315,7 +315,7 @@ const Home = ({navigation}) => {
                   opacity: 0.5,
                   marginLeft: 10,
                 }}>
-                78
+                94
               </Text>
             </View>
             <Text
